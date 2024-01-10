@@ -20,7 +20,8 @@
         {
           "title": "title",
           "name": "title",
-          "type": "string"
+          "type": "string",
+          "single": true
         },
         {
           "title": "author",
@@ -54,5 +55,6 @@
         }
       ]
     }
-  ]
+  ],
+  "frontMatter.framework.startCommand": "bun dev"
 }

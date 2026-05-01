@@ -19,6 +19,8 @@ Now a few days later, I stumbled across a [video](https://youtu.be/d53Zk28esmU) 
 
 So here's a breakdown of what's actually going on.
 
+## TABLE OF CONTENTS
+
 ## A Critical RCE Vulnerability (Fixed, but still alarming)
 
 ![Github Struggles](@assets/images/wiz-github-rce.webp)

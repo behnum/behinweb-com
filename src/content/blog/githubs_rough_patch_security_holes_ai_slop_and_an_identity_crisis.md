@@ -7,8 +7,6 @@ pubDatetime: 2026-05-01T11:12:00+02:00
 tags: ["github", "security", "ai", "open-source", "microsoft", "devtools"]
 ---
 
-<p dir="rtl">اوضاع گیت‌هاب این روزها خیلی خوب نیست. اخیرا گیت‌هاب با یک آسیب‌پذیری امنیتی جدی، قطعی‌های مکرر، سیل عظیمی از مشارکت‌های بی‌کیفیت تولیدشده توسط هوش مصنوعی (همون چیزی که به عنوان slopهای تولید شده از هوش مصنوعی شناخته می‌شه)، و مهاجرت کامل به Microsoft Azure روبه‌رو شده.. و همه اینها در حال تغییر بنیادی ماهیت این پلتفرم بزرگ هستند.</p>
-
 ![Github 2010](@assets/images/github-2010.jpeg)
 
 If you’ve been keeping an eye on the developer scene lately, you’ve probably seen that GitHub, the platform we all thought would always be there, solid as a rock, has been struggling. We’re talking security issues, awkward outages, a ton of AI-generated clutter, and its identity slowly merging into Micro$oft’s machine.

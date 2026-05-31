@@ -302,13 +302,13 @@ Now go ship something. 🛳️
 
 ## 12. Further reading
 
-- GitHub Actions 2026 pricing changes — [Source](https://github.com/resources/insights/2026-pricing-changes-for-github-actions)
-- GitHub Advanced Security unbundling (Secret Protection / Code Security) — [Source](https://github.blog/changelog/2025-03-04-introducing-github-secret-protection-and-github-code-security/)
-- GitHub Copilot plan comparison — [Source](https://docs.github.com/en/copilot/get-started/plans)
-- GitLab official pricing — [Source](https://about.gitlab.com/pricing/)
-- GitLab Free tier user/group limits — [Source](https://docs.gitlab.com/user/free_user_limit/)
-- GitLab Duo add-ons — [Source](https://docs.gitlab.com/subscriptions/subscription-add-ons/)
+- [GitHub Actions 2026 pricing changes](https://github.com/resources/insights/2026-pricing-changes-for-github-actions)
+- [GitHub Advanced Security unbundling](https://github.blog/changelog/2025-03-04-introducing-github-secret-protection-and-github-code-security/) (Secret Protection / Code Security)
+- [GitHub Copilot plan comparison](https://docs.github.com/en/copilot/get-started/plans)
+- [GitLab official pricing](https://about.gitlab.com/pricing/)
+- [GitLab Free tier user/group limits](https://docs.gitlab.com/user/free_user_limit/)
+- [GitLab Duo add-ons](https://docs.gitlab.com/subscriptions/subscription-add-ons/)
 - GitLab 19.0 release announcement — [^1]
-- GitLab Duo with Amazon Q — [Source](https://aws.amazon.com/blogs/aws/introducing-gitlab-duo-with-amazon-q/)
+- [GitLab Duo with Amazon Q](https://aws.amazon.com/blogs/aws/introducing-gitlab-duo-with-amazon-q/)
 
 [^1]: https://about.gitlab.com/press/releases/2026-05-21-gitlab-19-extends-intelligent-orchestration-to-close-the-gap-between-writing-code-and-shipping-it/

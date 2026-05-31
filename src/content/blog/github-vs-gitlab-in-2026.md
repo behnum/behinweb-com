@@ -68,10 +68,10 @@ This is where most decisions actually get made, so let's be precise.
 ### GitHub tiers
 
 | Tier       | Price            | CI/CD minutes/mo | Notable                                           |
-| ---------- | ---------------- | ---------------- | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| ---------- | ---------------- | ---------------- | ------------------------------------------------- |
 | Free       | $0               | 2,000 (private)  | Unlimited public/private repos                    |
 | Team       | $4/user/mo       | 3,000            | Protected branches, required reviewers, draft PRs |
-| Enterprise | from $21/user/mo | 50,000           | SAML SSO, audit logs, GHES self-hosting option    | [Source](https://www.eesel.ai/blog/github-pricing) [Source](https://www.aguidetocloud.com/licensing/github-enterprise/) |
+| Enterprise | from $21/user/mo | 50,000           | SAML SSO, audit logs, GHES self-hosting option    |
 
 **GitHub add-ons:**
 
@@ -83,10 +83,10 @@ This is where most decisions actually get made, so let's be precise.
 ### GitLab tiers
 
 | Tier     | Price                | CI/CD minutes/mo | Notable                                                                              |
-| -------- | -------------------- | ---------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| -------- | -------------------- | ---------------- | ------------------------------------------------------------------------------------ |
 | Free     | $0                   | 400              | **Max 5 users per private namespace**                                                |
 | Premium  | $29/user/mo (annual) | 10,000           | Approvals, code owners, advanced CI/CD, SAST + secret detection                      |
-| Ultimate | ~$99/user/mo (sales) | 50,000           | Full security suite (SAST/DAST/dep + container scanning), compliance, portfolio mgmt | [Source](https://about.gitlab.com/pricing/) [Source](https://www.saaspricepulse.com/tools/gitlab) [Source](https://cicdcalculator.com/gitlab-ci) |
+| Ultimate | ~$99/user/mo (sales) | 50,000           | Full security suite (SAST/DAST/dep + container scanning), compliance, portfolio mgmt |
 
 **GitLab add-ons:**
 
